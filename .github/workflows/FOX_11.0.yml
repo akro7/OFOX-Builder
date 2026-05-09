@@ -14,7 +14,7 @@ on:
       USER_BRANCH:
         description: 'Device Tree Branch'
         required: true
-        default: 'main'
+        default: 'android-12.1'
       DEVICE_TREE:
         description: 'Device Tree URL'
         required: true
